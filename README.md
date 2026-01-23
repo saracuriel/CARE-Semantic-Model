@@ -19,7 +19,8 @@
 ---
 ## Full Documentation
 
-You can explore the complete documentation here: https://care-sm.readthedocs.io/en/latest/
+You can explore the complete documentation 
+<a href="https://care-sm.readthedocs.io/en/latest/">here</a>
 
 The documentation includes:
 - Detailed descriptions of all data elements
