@@ -42,6 +42,9 @@ https://github.com/CARE-SM/CARE-Semantic-Model/issues
 
 ## Cite Us
 
+Zenodo link
+<a href="https://zenodo.org/records/18785871">here</a>
+
 If you used CARE-SM in your work, please cite the following publication:
 
 ```bibtex
